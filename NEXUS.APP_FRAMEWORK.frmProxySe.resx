@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="$this.Icon" mimetype="application/x-microsoft.net.object.binary.base64"><value>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</value></data></root>

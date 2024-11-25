@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="label3.Text"><value>BOOKING PROCESS
+EK SATH ALL PAIR LOGIN NA KRE 3-5 PAIR 9:49,10:49 ME KRE ,3-5 PAIR 9:55,10:55 ME KRE NEXT 3-5 PAIR 9:57,10:57 K BAAD LOGIN KRE REPONSE SHI AAYGA 
+---------------------------------------------------------------------------------------------------------------------------------
+WORKING BANK ON SUPER LOGIN
+
+BHIM UPI, OTPPAY,IPAYUPI,AIRPAYQR, ROZERPAY UPI, HDFC DC, HDFC NB WORKING BANK ON APP LOGIN, AAP2 LOGIN, WEB LOGIN
+HDFC NB, BHIM UPI, PHONEPAY , PAYUPI, IPAYUPI, ROZERPAY, SAFEXUPI, HDFC UPI, AIRPAQR, EZEBUZZQR, OTOPAY, PAYTMQR, PHONEPAY QR, PAYT UPCOMING UPDATE
+MOBIKIWIK, AIRTEL MONEY NEXT UPDATE ME YE SAB GATEWAY OTP REDER K THOUGH UPDATE KAR DIYA JYGA
+
+BEST OF LUCK
+
+
+</value></data>
+  </root>
